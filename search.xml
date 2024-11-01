@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>算法数据结构—关于单调栈</title>
+      <link href="/2024/11/01/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%85%B3%E4%BA%8E%E5%8D%95%E8%B0%83%E6%A0%88/"/>
+      <url>/2024/11/01/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%85%B3%E4%BA%8E%E5%8D%95%E8%B0%83%E6%A0%88/</url>
+      
+        <content type="html"><![CDATA[<p>单调栈是一种特殊的数据结构，分为单调递增栈和单调递减栈，保证元素从栈顶到栈底的单调性。文章通过实例介绍了单调栈的入栈和出栈过程，并阐述了如何利用单调栈在$O(n)$的时间复杂度内寻找元素左右侧的特定元素。单调栈常用于寻找序列中某些元素的相邻元素，如左侧第一个更大&#x2F;更小的元素等。文章还提供了具体的编程模板和实际问题的解题思路，如下一个更大元素问题和每日温度问题。<br>详解跳转csdn链接: <a href="https://blog.csdn.net/zy_dreamer/article/details/131036101">Server</a></p><div class="video-container">[视频内嵌代码]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>毒液-最后一舞解析</title>
       <link href="/2024/11/01/%E6%AF%92%E6%B6%B2%E8%BF%8E%E6%9D%A5%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E/"/>
       <url>/2024/11/01/%E6%AF%92%E6%B6%B2%E8%BF%8E%E6%9D%A5%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E/</url>
